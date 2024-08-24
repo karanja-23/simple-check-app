@@ -1,0 +1,21 @@
+div{
+    background-color:rgb(216, 201, 182) ;
+    width: 60vh;
+    margin-right: auto;
+    margin-left: auto;
+    height: 40vh;
+}
+input ,button{
+    margin-left:25vh;
+    margin-top: 5px;
+}
+#my-checkbox{
+    margin-top: 30px;
+}
+#submit-btn{
+    font-size: 1em;
+    border-radius: 5px;
+}
+#message{
+    text-align: center;
+}
